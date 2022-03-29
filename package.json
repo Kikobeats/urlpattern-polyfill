@@ -2,7 +2,7 @@
   "name": "@kikobeats/urlpattern-polyfill",
   "description": "Polyfill for the proposed URLPattern API",
   "homepage": "https://github.com/Kikobeats/urlpattern-polyfill#readme",
-  "version": "1.0.0-rc5",
+  "version": "1.0.0",
   "author": {
     "email": "josefrancisco.verdu@gmail.com",
     "name": "Kiko Beats",
